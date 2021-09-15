@@ -9,6 +9,8 @@ The game's rule are pretty simple;
 When it flashes a color the first time, then you need to click that color. After the second color, you have to click the color it flashed first and then the color it flashed.
 For example, if green is flashed, then you click. After that, if it flashes blue then you have to click green and then click blue and so on.
 
+To learn more about the game, please check this link out- https://www.ultraboardgames.com/simon/game-rules.php
+
 I am planning to improve on it further with the more concepts you learn. 
 
 
